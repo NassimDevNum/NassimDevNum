@@ -4,7 +4,7 @@
 🔭 J'ai pour but de trouver une alternance pour septembre<br>
 🌱 J'apprends Php et Javascript et Python
 
-portfolio -> https://nassimdevnum.github.io/nassimFolio/
+portfolio -> https://nassimdevnum.github.io/nassimFolio/ <br>
 linkedin  -> www.linkedin.com/in/nassim-lahlouh-💻📚-6a96a8235
 
 ## 🌐 Socials:
