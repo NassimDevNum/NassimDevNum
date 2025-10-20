@@ -20,6 +20,45 @@ linkedin  -> https://www.linkedin.com/in/nassim-lahlouh-6a96a8235/
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NassimDevNum&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NassimDevNum&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+💻 Tech Stack
+🌐 Frontend
+
+
+
+
+
+
+
+
+
+
+
+
+⚙️ Backend
+
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
+
+
+🗄️ Database
+
+🎨 Design & UX
+
+
+
+
+
+
+🛠️ Outils & Gestion
+
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NassimDevNum&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
