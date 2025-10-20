@@ -1,10 +1,10 @@
 
 # 💫 About Me:
-💻 Développeur web fullstack, spécialisé en backend (Python & JavaScript).
-🚀 En alternance depuis 3 ans pour une marque de vêtements de luxe.
-📊 Passionné par le problem solving et la data, je me spécialise pour renforcer mes compétences sur les technologies les plus importantes du moment.
+💻 Développeur web fullstack, spécialisé en backend (Python & JavaScript). <br>
+🚀 En alternance depuis 3 ans pour une marque de vêtements de luxe. <br>
+📊 Passionné par le problem solving et la data, je me spécialise pour renforcer mes compétences sur les technologies les plus importantes du moment. <br>
 
-🛠️ Pendant mon temps libre, je travaille en freelance (shopify) et je développe une application qui me change la vie. C'est un projet personnel pour devenir un meilleur homme 😄
+🛠️ Pendant mon temps libre, je travaille en freelance (shopify) et je développe une application qui me change la vie. C'est un projet personnel pour devenir un meilleur homme 😄 <br>
 
 portfolio -> https://creermaboutique.fr/ <br>
 linkedin  -> www.linkedin.com/in/nassim-lahlouh-💻📚-6a96a8235
