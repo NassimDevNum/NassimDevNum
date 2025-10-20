@@ -7,10 +7,10 @@
 🛠️ Pendant mon temps libre, je travaille en freelance (shopify) et je développe une application qui me change la vie. C'est un projet personnel pour devenir un meilleur homme 😄 <br>
 
 portfolio -> https://creermaboutique.fr/ <br>
-linkedin  -> www.linkedin.com/in/nassim-lahlouh-💻📚-6a96a8235
+linkedin  -> https://www.linkedin.com/in/nassim-lahlouh-6a96a8235/
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nassim-lahlouh-💻📚-6a96a8235/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassim-lahlouh-6a96a8235/) 
 
 
 # 💻 Tech Stack:
