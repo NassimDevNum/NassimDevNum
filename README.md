@@ -8,10 +8,7 @@
 
 portfolio -> https://creermaboutique.fr/ <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassim-lahlouh-6a96a8235/) 
-
-🌐 Socials:
-
-
+<br><br><br>
 
 
 🌐 Frontend
